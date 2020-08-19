@@ -102,3 +102,6 @@ dist
 
 # TernJS port file
 .tern-port
+
+# ignore these svelte built files
+public/build
